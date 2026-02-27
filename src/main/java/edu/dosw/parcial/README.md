@@ -1,7 +1,7 @@
 
 # Diagrama de contexto
 
-![Diagrama de contexto](../../../../../../docs/images/DiagramaContexto.png)
+![Diagrama de contexto](../../../../../../docs/uml/DiagramaContexto.png)
 
 
 # Patrones de diseño
