@@ -10,7 +10,7 @@ Laura Valentina Santiago Marquez
 
 # Diagrama de contexto
 
-![Diagrama de contexto](docs/images/DiagramaContexto.png)
+![Diagrama de contexto](docs/uml/DiagramaContexto.png)
 
 
 # Patrones de diseño
@@ -45,4 +45,9 @@ no son necesarios de agregar.
 
 # Diagrama de casos de uso
 
-![Diagrama de casos de uso](docs/images/casosdeuso.png)
+![Diagrama de casos de uso](docs/uml/casosdeuso.png)
+
+
+# Documento de requerimientos
+
+Documentos ingresados
