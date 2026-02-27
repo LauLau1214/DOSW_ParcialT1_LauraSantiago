@@ -1,4 +1,4 @@
-package org.example;
+package edu.dosw.parcial;
 
 /**
  * Hello world!
